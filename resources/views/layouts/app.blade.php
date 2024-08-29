@@ -3,6 +3,7 @@
     <head>
         <title>@yield('title', 'WebTechID')</title>
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+        <link rel="icon" href="{{ asset('images/compressed-logo.png') }}" type="image/logo">
     </head>
     
 <body>
